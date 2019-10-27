@@ -14,3 +14,4 @@ For this miniproject we used Keras library to create networks for image classifi
 - The Fashion-MNIST dataset to classify clothing items
 
 We compared the performances of the networks depending on the number of layers, the number of units per layer, regulizers, batch size and dropout.
+
