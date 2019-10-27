@@ -2,6 +2,7 @@
 EPFL Spring Semester 2019 - Artificial Neural Network Course
 
 - https://edu.epfl.ch/coursebook/en/artificial-neural-networks-CS-456
+
 Miniproject 1: Image Classification
 
 This homework was done in a group of two students: Valentin Borgeaud & Virginie Piskin
